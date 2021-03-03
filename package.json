@@ -1,0 +1,21 @@
+{
+    "name": "handy-commands-extensions",
+    "displayName": "handy-commands-extensions",
+    "description": "Collection of some handy commands",
+    "version": "0.1.2",
+    "author": {
+        "name": "testest-jp",
+        "url": "https://github.com/testest-jp/handy-commands-extensions"
+    },
+    "publisher": "-",
+    "categories": [
+        "Scripts"
+    ],
+    "contributes": {
+        "scripts": [
+            {
+                "path": "./scripts/entry.lua"
+            }
+        ]
+    }
+}
